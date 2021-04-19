@@ -4,7 +4,9 @@
 
 ## Папки с заданиями
 
-- html - Язык HTML-тегов с помощью менеджера контекста![razbor](../extra_practice04/screenshots/html.png)
+- html - Язык HTML-тегов с помощью менеджера контекста
+  
+![razbor](../extra_practice04/screenshots/html.png)
 - tree - Работа с деревьями выражений
 
 Реализовать классы Num, Add, Mul.
